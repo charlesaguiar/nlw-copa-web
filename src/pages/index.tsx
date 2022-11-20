@@ -40,7 +40,7 @@ export default function Home({
   };
 
   return (
-    <div className="grid grid-cols-2 gap-28 h-screen mx-auto items-center max-w-[1124px]">
+    <div className="grid grid-cols-2 gap-28 h-screen mx-auto items-center max-w-[1124px] my-4">
       <main>
         <Image src={logoImage} alt="Logo" />
         <h1 className="mt-14 text-white font-bold text-5xl leading-tight">
